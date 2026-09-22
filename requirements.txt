@@ -1,0 +1,7 @@
+# Pinned so a rerun reproduces the published figure byte-for-byte.
+# reproducibility.md asks for recorded versions; ranges would defeat that.
+# Bump deliberately, re-run the figure QA, and record the change as a new version.
+numpy==1.26.4
+scipy==1.11.4
+matplotlib==3.8.2
+openpyxl==3.1.2

@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: "3D centrosome–nucleus distance analysis templates"
+message: "If you use this software, please cite the repository and the associated methods paper when available."
+type: software
+date-released: 2026-09-22
+license: MIT
+version: 1.0.0
+repository-code: https://github.com/jinliehuo-ai/3d-organelle-distance-analysis

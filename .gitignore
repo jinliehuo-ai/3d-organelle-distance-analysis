@@ -1,0 +1,35 @@
+# Local data and derived outputs
+data/
+results/
+outputs/
+archive/
+*.nd2
+*.tif
+*.tiff
+*.xls
+*.xlsx
+*.csv
+*.png
+*.pdf
+*.svg
+*.log
+*_metadata.txt
+*_ERROR.txt
+
+# Local environments and editor files
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+.vscode/
+
+# Local configuration
+.env
+config.local.*
+
+# Private-term denylist for scripts/qa/check_public_release.py.
+# Never commit it: a denylist inside the repo publishes the terms it hides.
+.release-denylist
+*.denylist
